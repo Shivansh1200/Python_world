@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shivtechviral-s-assistant-mymq",
+  "private_key_id": "47bc28b67d41b22aed70e3a5fdb70f982ec18070",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFtMFh0ov4kc2C\nH+n/fYGsDAYxJucK3O5pMOIkWURhEVpHawqMNwwVlvO6oZ5TQnp9C5qapSIBot0E\n6HrHc8xAddQTEh9xEWF5vI/giU110MAeQ6pFyrKAMZu1E0tcn6gbMk+VWAI0gFqh\n+ig9k4daIkUadllgG6qg2LcpKYHQOmdPbZwhzfIgiM5jashR13WL+vup+bEXYi4j\nL33t5zQ+5OlpTy7s6t12d+qSp9aS0Y79twULmRFi1h8BIEaynQqEeI6fU0njCgQA\nlerw+rRPwz8jdJpzF0n9N4Vn4XC9WruKQNCDRij/1FNE34dLAOvNQoVVKlA6ANUZ\nfkAOK0qhAgMBAAECggEAD2742aYR/ymCnXHYVnV5tfCKWzPqPVLZ2aRTQvsk917f\naUvV2vRBIT5TcHJFZcJ+xVwuiXvyl6YbEtMDIqbLfwyzrXlwsubkcRhjMugE//l3\nxeUKWcBlBtTYjt4et/BOszDOPZ5NLcQHTzW0BnqJymN6eYJbn8EJJN1GDxSKabLC\nEjivY+hGewIWT7hYkItzRF9Rrw5xspS7qd9LE3K5svv1mbuw5FziwGhUyq4BoGz/\n7/VDS/60vvkBlIGaLF86x6UsZqGnEjFWElPnXXGEdypW1tUzaD9dGbCptVck4jf8\nsm5dQlLGzBZXml/5dD/880ZREnzCMUR6dpoPUkNvQQKBgQD+VQtLPBw9AX4wnWin\nLeIlrQLYV//UkO7lNewYk/kbjAr5gQo5BdN/HLO8MCXBQPf3UfctcquXW2lftV3M\nrTWLoIkLInFZ0nVzNEXOBh23i0E3VGrw45KibAHudR+ZFuZyJ46uwzxOz6fSz3DY\n0MSPz6MaiBmopK2HmT91gpT6NQKBgQDHAKawV5mRurwWxxOHYDRe5D59eMzJ2/7h\nt0XzUzwZnSbElr25QKwhCb/q+0mftMvDdQvwWpQre9QAEifSZDVMgdx/GBnldtcB\nGkZrti2ODAYIjPvwiy0eaEoJIycCnZqSHxcGsdNai5aZpH2Abid7pv3fpvGYq5v5\nFLwxaNJ8PQKBgQDDI6ViuGBCPp7/1gayHvZhSfng3MQh6IIjw9e+k+qSREU3Ytbh\nIaNA6FjPj3GocZzQWkd4y370xuJ22MV7gXqQA0CjFm46KMyM9BKLHQ44AdSsC01y\nPmoHzS8+MwdngraV59wGIy5mmdV+XkOLV8M5RGs0tDBbwN6UJ/UUyHhd8QKBgEHS\ncFARmYT/O+lYzZfQdWIRoq3DwBDgiGzGPwfdtxpNxZ3usjBNOOHwpJ8noNGHboJm\n+5zziODdI2EmoC9R3+M/bNxI73/bkAAYXcSQzH6YcYJwh4CnuDO/kQV2sBeIY7ED\nQY2AUgU3+Ic3Rh+tz7dxo7VPNcgmsv9vIVRCdKSNAoGBALOVIlmB1do0C74zZb+f\nwh+GKiNO2W/b73pa/n14j7HB0bqeMaztI91AjsaZKh6GQUIsj4T0S0qvYYRSDKI0\nZLvbi2OLD2q25BGu8y8wnnXafTxt68mzxww82/0+78+J7oWIM/Em7Rs+LI4i3Yz4\nKmtiVeUR49PSfqC9nMH/w665\n-----END PRIVATE KEY-----\n",
+  "client_email": "shivtechviral-s-assistant-mymq@appspot.gserviceaccount.com",
+  "client_id": "115782991090758426323",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/shivtechviral-s-assistant-mymq%40appspot.gserviceaccount.com"
+}
