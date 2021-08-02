@@ -15,4 +15,4 @@
 
 ![image](https://github.com/Shivansh1200/Data-Science_World/blob/master/Namebanner.jpg)
 ### I'm a student of Computer Science engineering at SRMIST.
-Python repository for beginners. Projects associated with Python programming will be posted here.
+ Projects associated with Python programming will be posted here.
